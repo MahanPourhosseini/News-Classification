@@ -1,6 +1,6 @@
 ### Problem Statement
 
-This project represents the work undertaken as part of a midterm exam, focusing on the task of text classification. The exam specifically involved a case study related to an Iranian newspaper dataset. The primary objective was to build and evaluate text classification models to categorize newspaper articles into predefined topics accurately.
+This project represents the work undertaken as part of the Machine Learning course's midterm exam, focusing on the task of text classification. The exam specifically involved a case study related to an Iranian newspaper dataset. The primary objective was to build and evaluate text classification models to categorize newspaper articles into predefined topics accurately.
 
 ### Table of Contents
 
